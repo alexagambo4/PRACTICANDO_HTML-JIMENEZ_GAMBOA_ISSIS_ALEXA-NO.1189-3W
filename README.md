@@ -28,3 +28,8 @@
 # Ejemplo no.6: 
 
 ![image](https://github.com/user-attachments/assets/b08d2532-4542-4eaf-be1e-7259ef527270)
+
+
+# Ejemplo no.7:
+
+![image](https://github.com/user-attachments/assets/25b015a0-4476-4995-a586-7026fabca75c)
