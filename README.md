@@ -33,3 +33,26 @@
 # Ejemplo no.7:
 
 ![image](https://github.com/user-attachments/assets/25b015a0-4476-4995-a586-7026fabca75c)
+
+
+# Ejemplo no.8:
+
+![image](https://github.com/user-attachments/assets/5c69a1fb-45c9-41ee-a65a-2044f99f4ed7)
+
+
+# Ejemplo no.9:
+
+![image](https://github.com/user-attachments/assets/1aa34fa1-4148-4ef0-b2e7-93492dd37d0e)
+
+
+# Ejemplo no.10:
+
+![image](https://github.com/user-attachments/assets/4af336d9-6093-467e-a7b2-9c93aab22b35)
+
+
+# Ejemplo no.11:
+
+![image](https://github.com/user-attachments/assets/6cc1765d-b26f-43d9-b42c-d93ad412792e)
+
+
+
